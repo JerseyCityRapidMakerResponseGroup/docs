@@ -2,7 +2,7 @@
 
 Consolidated documentation for our amazing project! 
 
-__If you are a volunteer and want to get involved, please fill out and submit our onboarding questionnaire: https://docs.google.com/forms/d/1ko66ckr9QYzo8WCnykCrUqllKvhwEddPx5Z0TcetFro/edit__
+__If you are a volunteer and want to get involved, please fill out and submit our onboarding questionnaire: https://jcrmrg.org/join__
 
 
 [Volunteer Needs](https://docs.google.com/spreadsheets/d/1hCwfFya75VJ4qKN_MNAVLFf7x8QBBbW484us0OjXvZI/edit#gid=0) - This  spreadsheet details the roles we need our volunteers to fulfill (3D Printing/Laser Cutting, Legal Counsel, Volunteer and Outreach Coordination, Logistic, etc.)  
