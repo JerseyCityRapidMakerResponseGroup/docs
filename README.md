@@ -2,7 +2,7 @@
 
 Consolidated documentation for our amazing project! 
 
-_If you are a volunteer looking to get involved, please fill out this questionnaire: https://docs.google.com/forms/d/1ko66ckr9QYzo8WCnykCrUqllKvhwEddPx5Z0TcetFro/edit_
+__If you are a volunteer looking to get involved, please fill out this questionnaire: https://docs.google.com/forms/d/1ko66ckr9QYzo8WCnykCrUqllKvhwEddPx5Z0TcetFro/edit__
 
 [Volunteer Needs](https://docs.google.com/spreadsheets/d/1hCwfFya75VJ4qKN_MNAVLFf7x8QBBbW484us0OjXvZI/edit#gid=0) - Spreadsheet detailing what 
 
