@@ -1,4 +1,4 @@
-# Jersey City Rapid Maker Response Group - Documentation Page
+# Jersey City Rapid Maker Response Group - Tech Files
 
 Find all of our print files here!
 
